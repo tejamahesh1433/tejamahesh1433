@@ -2,6 +2,16 @@
 Full-Stack Developer (Django + React) | AI/ML Enthusiast | DevOps Learner  
 Building scalable apps and intelligent systems.
 
+🚀 About Me
+
+I’m a Computer Science graduate focused on building real-world applications and backend systems.
+
+💻 Building full-stack apps using Django + React
+⚙️ Exploring DevOps (Docker, CI/CD, Cloud)
+🤖 Working on AI/ML projects (Emotion Recognition, Computer Vision)
+📈 Interested in system design & scalable architectures
+
+📌 Actively looking for Software / DevOps / Full Stack roles
 <!--
 **tejamahesh1433/tejamahesh1433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
