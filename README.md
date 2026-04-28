@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Teja 👋  
+Full-Stack Developer (Django + React) | AI/ML Enthusiast | DevOps Learner  
+Building scalable apps and intelligent systems.
 
 <!--
 **tejamahesh1433/tejamahesh1433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
